@@ -1,0 +1,5 @@
+surf.stl, unit: mm
+
+  X     Y     Z
+-72  -106   -72
+ 72    74    77
